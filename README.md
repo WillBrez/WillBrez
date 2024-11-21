@@ -11,7 +11,7 @@
 ## Estudios 💻
 ✔ Ultimate Python: de cero a programador experto - UDEMY  (Finalizado) <br>
 ✔ Tu futuro - Curso de habilidades socioemocionales y digitales para la empleabilidad - Fundación Forge (Actualidad) <br>
-✔ Diplomado de Python y Big Data - Universidad Autónoma de Chile (Actualidad) <br>
+✔ Diplomado de Python y Data Science - Universidad Autónoma de Chile (Actualidad) <br>
 
 ## Tecnologias 💻
 
