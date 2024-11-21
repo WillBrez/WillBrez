@@ -8,20 +8,19 @@
 ✔ Me educo de forma autodidacta, aprovechando recursos disponibles para adquirir y profundizar en conocimientos.<br>
 ✔ No me conformo solo con lo aprendido formalmente, sino que continúo practicando código y fortaleciendo mi lógica de programación día a día.😎<br>
 
-## Certificados 💻
+## Estudios 💻
+Ultimate Python: de cero a programador experto - UDEMY
+Tu futuro - Curso de habilidades socioemocionales y digitales para la empleabilidad - Fundación Forge
+Diplomado de Python y Big Data - Universidad Autónoma de Chile
+
 ✔ Ultimate Python: de cero a programador experto - **Udemy** <br>
 
 ## Tecnologias 💻
- **Front-end**
- 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![REACT](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
- **Back-end**
-
-
 
  **Softwares and Tools**
 
