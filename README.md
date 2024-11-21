@@ -1,6 +1,6 @@
 ## Bienvenidos a mi GitHub👋
 
-![Banner de Condor Coders](Mi_banner.png)
+![Banner de Condor Coders](Banner.png)
 
 ## Sobre mí 💻
 
