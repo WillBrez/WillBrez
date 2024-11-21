@@ -9,11 +9,9 @@
 ✔ No me conformo solo con lo aprendido formalmente, sino que continúo practicando código y fortaleciendo mi lógica de programación día a día.😎<br>
 
 ## Estudios 💻
-Ultimate Python: de cero a programador experto - UDEMY
-Tu futuro - Curso de habilidades socioemocionales y digitales para la empleabilidad - Fundación Forge
-Diplomado de Python y Big Data - Universidad Autónoma de Chile
-
-✔ Ultimate Python: de cero a programador experto - **Udemy** <br>
+✔ Ultimate Python: de cero a programador experto - UDEMY  (Finalizado) <br>
+✔ Tu futuro - Curso de habilidades socioemocionales y digitales para la empleabilidad - Fundación Forge (Actualidad) <br>
+✔ Diplomado de Python y Big Data - Universidad Autónoma de Chile (Actualidad) <br>
 
 ## Tecnologias 💻
 
