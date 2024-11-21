@@ -9,8 +9,7 @@
 ✔ No me conformo solo con lo aprendido formalmente, sino que continúo practicando código y fortaleciendo mi lógica de programación día a día.😎<br>
 
 ## Certificados 💻
-✔ JavaScript Moderno Guía Definitiva Construye +20 Proyectos - **Udemy** <br>
-✔ Curso React y Next 14: Paso a paso y desde 0 (Full Stack JS) - **Udemy** <br>
+✔ Ultimate Python: de cero a programador experto - **Udemy** <br>
 
 ## Tecnologias 💻
  **Front-end**
